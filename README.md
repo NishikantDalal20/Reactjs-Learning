@@ -1,1 +1,1 @@
-test
+This repository is for learning reactjs
